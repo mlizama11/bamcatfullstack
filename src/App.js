@@ -19,7 +19,7 @@ import RegistrationPage from "./features/Pages/RegistrationPage";
 function App() {
   return (
     <div className="App">
-      <Router basename="/B.A.M-eCommerce">
+      <Router basename="/bamcatfullstack">
         <NavbarFunc />
         <Switch>
           <Route path="/" exact component={HomePage} />
