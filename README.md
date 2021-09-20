@@ -2,8 +2,8 @@
 
 A group project created at the end of our *Backend* module after learning React.
 
-Frontend: (https://mlizama11.github.io/bamcatfullstack/)
-Backend : (https://bam-cat.herokuapp.com/)
+- Frontend: (https://mlizama11.github.io/bamcatfullstack/)
+- Backend : (https://bam-cat.herokuapp.com/)
 
 ### WHO ARE THE TEAM MEMBERS?
 
