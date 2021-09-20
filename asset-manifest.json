@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/bamcatfullstack/static/css/main.12fede62.chunk.css",
+    "main.js": "/bamcatfullstack/static/js/main.efb8b157.chunk.js",
+    "main.js.map": "/bamcatfullstack/static/js/main.efb8b157.chunk.js.map",
+    "runtime-main.js": "/bamcatfullstack/static/js/runtime-main.2212e53d.js",
+    "runtime-main.js.map": "/bamcatfullstack/static/js/runtime-main.2212e53d.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/bamcatfullstack/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.73ef3012.chunk.js": "/bamcatfullstack/static/js/2.73ef3012.chunk.js",
+    "static/js/2.73ef3012.chunk.js.map": "/bamcatfullstack/static/js/2.73ef3012.chunk.js.map",
+    "index.html": "/bamcatfullstack/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/bamcatfullstack/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.12fede62.chunk.css.map": "/bamcatfullstack/static/css/main.12fede62.chunk.css.map",
+    "static/js/2.73ef3012.chunk.js.LICENSE.txt": "/bamcatfullstack/static/js/2.73ef3012.chunk.js.LICENSE.txt",
+    "static/media/fashionstore.0b392768.jpg": "/bamcatfullstack/static/media/fashionstore.0b392768.jpg",
+    "static/media/hero.288e83ea.jpg": "/bamcatfullstack/static/media/hero.288e83ea.jpg",
+    "static/media/hero1.55b1bc98.jpg": "/bamcatfullstack/static/media/hero1.55b1bc98.jpg",
+    "static/media/hero2.569eda52.jpg": "/bamcatfullstack/static/media/hero2.569eda52.jpg",
+    "static/media/hero3.18818907.jpg": "/bamcatfullstack/static/media/hero3.18818907.jpg",
+    "static/media/logo.146dd4c9.svg": "/bamcatfullstack/static/media/logo.146dd4c9.svg",
+    "static/media/men1.d4ea333e.png": "/bamcatfullstack/static/media/men1.d4ea333e.png",
+    "static/media/men2.8743dd62.jpg": "/bamcatfullstack/static/media/men2.8743dd62.jpg",
+    "static/media/men3.2cf427c4.png": "/bamcatfullstack/static/media/men3.2cf427c4.png",
+    "static/media/men4.3684ed84.jpg": "/bamcatfullstack/static/media/men4.3684ed84.jpg",
+    "static/media/women1.5b53f228.png": "/bamcatfullstack/static/media/women1.5b53f228.png",
+    "static/media/women2.d94c7bd5.jpg": "/bamcatfullstack/static/media/women2.d94c7bd5.jpg",
+    "static/media/women3.f9508b51.jpg": "/bamcatfullstack/static/media/women3.f9508b51.jpg",
+    "static/media/women4.2515fbf3.jpg": "/bamcatfullstack/static/media/women4.2515fbf3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2212e53d.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.73ef3012.chunk.js",
+    "static/css/main.12fede62.chunk.css",
+    "static/js/main.efb8b157.chunk.js"
+  ]
+}
